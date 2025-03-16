@@ -22,6 +22,12 @@ python api.py
 
 This will start the API server at http://localhost:8000.
 
+## Code Organization
+
+- **`api.py`**: Contains the FastAPI implementation that exposes the scraping functionality as a web service
+- **`main.py`**: Contains the core scraping logic without API functionality - useful for direct Python script usage or integration into other projects
+- **`extension.py`**: Handles the SadCaptcha extension configuration and loading
+
 ## API Endpoints
 
 ### POST /scrape
