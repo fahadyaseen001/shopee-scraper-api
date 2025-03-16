@@ -8,6 +8,10 @@ An API for scraping product information from Shopee Taiwan.
 ```bash
 pip install -r requirements.txt
 ```
+***OR***
+```bash
+poetry install
+```
 
 2. Set up environment variables:
    - Copy `.env.example` to `.env`
@@ -18,6 +22,10 @@ pip install -r requirements.txt
 ```bash
 cd app
 python api.py
+```
+***OR***
+```bash
+poetry run python -m app.main
 ```
 
 This will start the API server at http://localhost:8000.

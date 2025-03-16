@@ -2,7 +2,7 @@
 name = "antibot-browser"
 version = "0.1.0"
 description = ""
-authors = ["songponlekpetch <songpon.l@wisesight.com>"]
+authors = ["fahadyaseen001 <fahadyaseen102@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -12,6 +12,9 @@ playwright = "^1.50.0"
 playwright-stealth = "^1.0.6"
 shopee-captcha-solver = "^0.1.5"
 chrome-extension-python = "^1.0.1"
+fastapi = "^0.115.11"
+uvicorn = "^0.34.0"
+pydantic = "^2.10.6"
 
 
 [build-system]
