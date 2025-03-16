@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/818b5466-de08-47f3-8e79-e19adb4dc92c)
+
 # Shopee Product Scraper API
 
 An API for scraping product information from Shopee Taiwan.
