@@ -78,7 +78,7 @@ Scrapes product information from a Shopee product URL.
 - Continues scraping automatically after successful captcha solving
 
 #### Anti-Detection Measures
-- Successfully passes all checks on BotSammy, confirming its effectiveness in bypassing bot detection
+- Successfully passes all checks on https://bot.sannysoft.com/, confirming its effectiveness in bypassing bot detection
 - Implements Playwright stealth mode to avoid bot detection
 - Uses anti-bot techniques like webdriver attribute removal
 - Configures browser settings to appear as legitimate human traffic
