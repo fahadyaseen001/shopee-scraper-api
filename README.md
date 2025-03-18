@@ -2,7 +2,7 @@
 
 # Shopee Product Scraper API
 
-An API for scraping product information from Shopee Taiwan.
+An API for scraping product information from Shopee Platform using Playwright,FASTAPI & Shopee-Captcha-Solver 
 
 ## Installation
 
